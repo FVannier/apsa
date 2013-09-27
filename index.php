@@ -1,5 +1,5 @@
 <?php
-
+    // Test
   header('Content-type: text/html; charset=UTF-8', true);
 
   require("class/Session.class.php");
