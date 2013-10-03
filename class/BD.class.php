@@ -19,7 +19,7 @@ class BD
 		 * mysql_select_db("");
 		 *
 		 */
-		mysql_connect("localhost","root","");
+		mysql_connect("localhost","root","thoughtpolice");
 		mysql_select_db("apsa");
 	}
 	

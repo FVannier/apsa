@@ -98,12 +98,13 @@
               if(isset($_SESSION['idEmploye']))
               {
               ?>
-              <li><a href="appel115.php">Appel 115</a></li>
+              <li><a href="appel115.php">Appel 115</a></li>              
               <li><a href="equipe.php">Equipe de rue</a></li>
               <li><a href="usager.php">Usagers et Situations</a></li>
+              <li><a href="logement.php">Logements</a></li>
               <li><a href="stats.php">Statistiques</a></li>
               <li><a href="administration.php">Administration</a></li>
-              <li><a href="deconnexion.php">Déconnexion</a></li>
+              <li><a href="deconnexion.php">[X]</a></li>
               <?php
               }
               ?>
